@@ -1,45 +1,61 @@
-# Apa Itu Algoritma?
+# Basic Logic
 
-Algoritma adalah urutan langkah-langkah logis untuk menyelesaikan suatu masalah.
-
-## Contoh Sederhana
-
-Membuat mie instan.
-
-1. Siapkan mie
-2. Rebus air
-3. Masukkan mie
-4. Tunggu beberapa menit
-5. Tiriskan dan campurkan bumbu
-
-Dari contoh tersebut, terlihat bahwa algoritma memiliki langkah yang berurutan dan jelas.
+Repository ini digunakan untuk mendokumentasikan proses belajar logika dan algoritma dasar.
 
 ---
 
-# Contoh Algoritma dalam Python
+# LEVEL 1 — LOGIKA
 
-Program sederhana untuk menampilkan langkah membuat mie instan.
+## Progress Belajar
 
-```python
-print("Langkah membuat mie instan")
-print("1. Siapkan mie")
-print("2. Rebus air")
-print("3. Masukkan mie")
-print("4. Tunggu beberapa menit")
-print("5. Tiriskan dan campurkan bumbu")
+- [x] Paham apa itu algoritma
+- [x] Bisa membuat langkah-langkah (tidak lompat)
+- [x] Paham sequence (urutan)
+- [x] Paham selection (if–else)
+- [x] Paham iteration (loop)
+- [x] Bisa membuat 3 algoritma dari kehidupan nyata
+- [x] Bisa menjelaskan bagian sequence / selection / iteration dari algoritma sendiri
+
+---
+
+# Materi Repository
+
+```txt
+basic-logic/
+│
+├── README.md
+│
+├── notes/
+│   ├── pengertian-algoritma.md
+│   ├── langkah-berurutan.md
+│   ├── sequence.md
+│   ├── selection.md
+│   └── iteration.md
+│
+├── latihan/
+│
+└── gambar/
 ```
 
-## Output
+---
 
-```python
-Langkah membuat mie instan
-1. Siapkan mie
-2. Rebus air
-3. Masukkan mie
-4. Tunggu beberapa menit
-5. Tiriskan dan campurkan bumbu
-```
+# Tujuan Belajar
 
-## Kesimpulan
+- Memahami dasar logika pemrograman
+- Melatih pola pikir terstruktur
+- Belajar menyelesaikan masalah dengan algoritma
+- Persiapan sebelum belajar bahasa pemrograman
 
-Algoritma membantu kita menyusun langkah-langkah secara teratur agar suatu masalah dapat diselesaikan dengan jelas dan mudah dipahami.
+---
+
+# Tools yang Digunakan
+
+- GitHub
+- Markdown
+- Python
+
+---
+
+# Catatan
+
+Repository ini akan terus diperbarui seiring proses belajar berlangsung.
