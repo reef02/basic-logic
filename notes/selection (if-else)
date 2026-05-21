@@ -1,0 +1,53 @@
+# Selection (If-Else)
+
+Selection adalah konsep dalam algoritma yang digunakan untuk memilih tindakan berdasarkan kondisi tertentu.
+
+Dalam pemrograman, selection biasanya menggunakan:
+- if
+- else
+- elif
+
+---
+
+# Contoh Kehidupan Sehari-hari
+
+Jika hujan, maka bawa payung.
+Jika tidak hujan, maka tidak perlu membawa payung.
+
+Contoh tersebut menunjukkan bahwa keputusan diambil berdasarkan kondisi.
+
+---
+
+# Contoh Python
+
+```python
+cuaca = "hujan"
+
+if cuaca == "hujan":
+    print("Bawa payung")
+else:
+    print("Tidak perlu membawa payung")
+```
+
+---
+
+# Output
+
+```python
+Bawa payung
+```
+
+---
+
+# Penjelasan
+
+- `if` digunakan untuk mengecek kondisi
+- `else` dijalankan jika kondisi tidak terpenuhi
+
+Program akan memilih tindakan sesuai kondisi yang diberikan.
+
+---
+
+# Kesimpulan
+
+Selection membantu program mengambil keputusan berdasarkan kondisi tertentu.
